@@ -25,12 +25,12 @@ This project presents an enterprise-grade AI-powered FMCG distribution platform 
 <tr>
 <td align="center">
 <b>Executive Command Center</b><br><br>
-<i>[Sila letakkan gambar dashboard di sini (cth: EXECUTIVEDASH.png)]</i>
+<img src="EXECUTIVEDASH.png" width="450">
 </td>
 
 <td align="center">
 <b>Inventory Intelligence</b><br><br>
-<i>[Sila letakkan gambar dashboard di sini (cth: INVENTORYDASH.png)]</i>
+<img src="INVENTORYDASH.png" width="450">
 </td>
 </tr>
 
@@ -38,7 +38,7 @@ This project presents an enterprise-grade AI-powered FMCG distribution platform 
 <td colspan="2" align="center">
 <br>
 <b>Logistics & Route Monitoring</b><br><br>
-<i>[Sila letakkan gambar dashboard di sini (cth: LOGISTICSDASH.png)]</i>
+<img src="LOGISTICSDASH.png" width="800">
 </td>
 </tr>
 </table>
@@ -100,6 +100,14 @@ This project presents an enterprise-grade AI-powered FMCG distribution platform 
 ## 📚 What I Learned
 
 During this internship project, I transitioned from traditional data analytics to full-stack dashboard development. It strengthened my ability to handle real-world backend data logic, optimise frontend rendering performance, and structure enterprise-level software. I also learned to translate complex logistics and inventory data into an intuitive "C-Suite" command centre interface.
+
+---
+
+## 📄 Project Documentation
+
+A full UI flow and wireframe design of the FMCG platform is available in the provided PDF:
+
+📄 **[View UI Website FMCG PDF](../UI%20WEBSITE%20FMCG.pdf)**
 
 ---
 

@@ -35,12 +35,17 @@ This project presents the **AI Smart Distribution System**, an intelligent distr
 
 ### 2️⃣ Demo Dashboard
 *Interactive demonstration of real-time data synchronization and live analytics.*
-<img src="DEMO_DASHBOARD.png" width="850">
+<div align="center">
+  <img src="DEMO_DASHBOARD.png" width="850">
+</div>  
 <br><br>
 
 ### 3️⃣ Package Offerings
 *Comparison overview of the Standard, Professional, and Enterprise implementation tiers.*
-<img src="PACKAGE_OFFERS.png" width="850">
+<div align="center">
+  <img src="PACKAGE_OFFERS.png" width="850">
+</div>  
+<br><br>
 
 ---
 
@@ -48,7 +53,13 @@ This project presents the **AI Smart Distribution System**, an intelligent distr
 
 ### 🟢 Standard Package
 *Ideal for small-to-medium businesses focusing on essential inventory tracking and basic sales analytics.*
-<img src="STANDARD_PACKAGE" width="850">
+<div align="center">
+  <img src="STANDARD_PACKAGE/Screenshot 2026-07-29 151106.png" width="850"><br>
+  <img src="STANDARD_PACKAGE/Screenshot 2026-07-29 151239.png" width="850"><br>
+  <img src="STANDARD_PACKAGE/Screenshot 2026-07-29 151311.png" width="850"><br>
+  <img src="STANDARD_PACKAGE/Screenshot 2026-07-29 151419.png" width="850">
+</div>
+<br><br>
 
 - **Sales Analytics:** Basic dashboard to track revenue, best-selling products, and monthly sales trends.
 - **Inventory Monitoring:** Real-time visibility into stock levels and low-stock alerts.
@@ -58,7 +69,13 @@ This project presents the **AI Smart Distribution System**, an intelligent distr
 
 ### 🔵 Professional Package
 *Designed for growing businesses requiring multi-location support, demand forecasting, and deeper profit analysis.*
-<img src="PROFESSIONAL_PACKAGE" width="850">
+<div align="center">
+  <img src="PROFESSIONAL_PACKAGE/Screenshot 2026-07-29 152511.png" width="850"><br>
+  <img src="PROFESSIONAL_PACKAGE/Screenshot 2026-07-29 152555.png" width="850"><br>
+  <img src="PROFESSIONAL_PACKAGE/Screenshot 2026-07-29 152632.png" width="850"><br>
+  <img src="PROFESSIONAL_PACKAGE/Screenshot 2026-07-29 152852.png" width="850">
+</div>
+<br><br>
 
 - **Demand Forecasting:** Predict future customer demand based on historical sales and seasonal patterns.
 - **Profit & Cost Analysis:** Interactive sliders to simulate revenue targets against running costs.
@@ -68,7 +85,13 @@ This project presents the **AI Smart Distribution System**, an intelligent distr
 
 ### 👑 Enterprise Package (Flagship)
 *A comprehensive C-suite command center featuring AI-driven operations, risk simulation, and global warehouse intelligence.*
-<img src="ENTERPRISE_PACKAGE" width="850">
+<div align="center">
+  <img src="ENTERPRISE_PACKAGE/Screenshot 2026-07-29 153823.png" width="850"><br>
+  <img src="ENTERPRISE_PACKAGE/Screenshot 2026-07-29 153901.png" width="850"><br>
+  <img src="ENTERPRISE_PACKAGE/Screenshot 2026-07-29 153944.png" width="850"><br>
+  <img src="ENTERPRISE_PACKAGE/Screenshot 2026-07-29 154456.png" width="850">
+</div>
+<br><br>
 
 - **Branch Intelligence Explorer:** Deep dive into branch performance, market share, and stock health diagnostics.
 - **"What-If" Business Simulator:** Test revenue and profit impacts against supply delays and demand surges.

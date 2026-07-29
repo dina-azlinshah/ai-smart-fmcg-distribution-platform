@@ -4,64 +4,88 @@
 
 ## 📌 Project Overview
 
-This project presents an enterprise-grade AI-powered FMCG distribution platform developed during my internship. The dashboard serves as a centralised command centre for real-time inventory monitoring, sales analytics, logistics tracking, and AI-driven business insights across multiple warehouse branches.
+This project presents the **AI Smart Distribution System**, an intelligent distribution analytics platform designed specifically for FMCG (Fast-Moving Consumer Goods) distributors. Built to integrate seamlessly with existing ERP systems (such as AutoCount), it transforms raw operational data into actionable business intelligence. The system addresses critical industry challenges such as rapid demand changes, high inventory turnover, and the management of large product catalogues across multiple warehouses.
 
 ---
 
 ## 🎯 Business Objectives
 
-- Centralise multi-branch warehouse operations and logistics tracking
-- Provide real-time stock aging analysis and inventory intelligence
-- Leverage AI to generate actionable insights and cash flow projections
-- Reduce stock-out incidents through predictive inventory management
-- Enhance executive decision-making with high-level KPI visualisations
-- Monitor delivery performance and pending dispatch rates
+- **Reduce Stock Shortages & Overstock:** Prevent popular items from running out during peak periods and minimize excess inventory that ties up capital.
+- **Data-Driven Decision Making:** Replace manual, experience-based purchasing decisions with AI-driven demand forecasting and actionable insights.
+- **Enhance Operational Visibility:** Provide real-time visibility into sales performance, stock levels, and multi-warehouse operations.
+- **Improve Cash Flow & Profitability:** Identify slow-moving products to unlock locked capital and reduce hidden losses from unsold or expired inventory.
+- **Sales & Revenue Optimization:** Measure salesperson and branch effectiveness, and support better pricing and discount controls.
 
 ---
 
-## 📈 Dashboard Preview
+## 📈 Platform UI & Features
 
-<table>
-<tr>
-<td align="center">
-<b>Executive Command Center</b><br><br>
-<img src="EXECUTIVEDASH.png" width="450">
-</td>
+### 1️⃣ Website Overview
+*A high-level view of the main platform interface and navigation.*
+<img src="WEBSITE_OVERVIEW.png" width="850">
+<br><br>
 
-<td align="center">
-<b>Inventory Intelligence</b><br><br>
-<img src="INVENTORYDASH.png" width="450">
-</td>
-</tr>
+### 2️⃣ Demo Dashboard
+*Interactive demonstration of real-time data synchronization and live analytics.*
+<img src="DEMO_DASHBOARD.png" width="850">
+<br><br>
 
-<tr>
-<td colspan="2" align="center">
+### 3️⃣ Package Offerings
+*Comparison overview of the Standard, Professional, and Enterprise implementation tiers.*
+<img src="PACKAGE_OFFERS.png" width="850">
+
+---
+
+## 📦 Package-Specific Features
+
+### 🟢 Standard Package
+*Ideal for small-to-medium businesses focusing on essential inventory tracking and basic sales analytics.*
+<img src="STANDARD_FEATURES.png" width="850">
+
+- **Sales Analytics:** Basic dashboard to track revenue, best-selling products, and monthly sales trends.
+- **Inventory Monitoring:** Real-time visibility into stock levels and low-stock alerts.
+- **Warehouse Monitoring:** Essential tracking for a single warehouse operation.
+
 <br>
-<b>Logistics & Route Monitoring</b><br><br>
-<img src="LOGISTICSDASH.png" width="800">
-</td>
-</tr>
-</table>
+
+### 🔵 Professional Package
+*Designed for growing businesses requiring multi-location support, demand forecasting, and deeper profit analysis.*
+<img src="PROFESSIONAL_FEATURES.png" width="850">
+
+- **Demand Forecasting:** Predict future customer demand based on historical sales and seasonal patterns.
+- **Profit & Cost Analysis:** Interactive sliders to simulate revenue targets against running costs.
+- **Multi-Location:** Manage and monitor stock movements across multiple distribution points.
+
+<br>
+
+### 👑 Enterprise Package (Flagship)
+*A comprehensive C-suite command center featuring AI-driven operations, risk simulation, and global warehouse intelligence.*
+<img src="ENTERPRISE_FEATURES.png" width="850">
+
+- **Branch Intelligence Explorer:** Deep dive into branch performance, market share, and stock health diagnostics.
+- **"What-If" Business Simulator:** Test revenue and profit impacts against supply delays and demand surges.
+- **AI Auto-Pilot Feed:** Live tracking of automated system actions like auto-drafting POs and stock rerouting.
+
 
 ---
 
 ## ❓ Business Questions Addressed
 
-- Which warehouse branches have the highest risk of stock aging?
-- What is the projected cash flow based on real-time sales transactions?
-- Are there any critical bottlenecks in the current logistics and pending dispatches?
-- How does product movement vary across different FMCG categories?
-- What are the AI-recommended actions to optimise warehouse storage?
+- **Branch Diagnostics:** Which specific warehouse branches are underperforming in sales despite having healthy stock levels, and require targeted promotions? 
+- **Customer Retention & Recovery:** Which inactive customers fall into the "Win Back" category, and how much past revenue is at risk of being lost? 
+- **Risk Simulation:** If supply is delayed by X days and demand surges by Y%, what is the projected impact on overall profit margins and the Business Health Score?
+- **Credit & Cash Flow Control:** Which major clients have outstanding payments, and what is their specific credit term status? 
+- **AI Automation:** What proactive actions (e.g., auto-drafting POs or rerouting surplus units) should be taken instantly to prevent critical branch stockouts? 
 
 ---
 
 ## 💡 Key Features
 
-- **Multi-Branch Synchronization:** Real-time data bridging across Enterprise, Professional, and Standard packages.
-- **AI-Powered Recommendations:** Automated operational workflow recommendations.
-- **Dynamic Logistics Tracking:** Inline monitoring for "Pending Dispatch" and "DO Issue Rate".
-- **Advanced Drill-Down Diagnostics:** Instant identification of stock-out alerts and courier delays.
-- **Stock Aging Mechanics:** Genuine database queries for real-world stock aging data retrieval.
+- **Sales Analytics:** Comprehensive business intelligence to identify top-performing products, profitable customers, and seasonal buying patterns.
+- **Demand Forecasting (AI-Driven):** Predict future customer demand based on historical sales, market behavior, and seasonality to accurately plan purchasing and logistics.
+- **Inventory Intelligence & Alerts:** Real-time inventory monitoring with automated low-stock notifications to prevent missed reorder opportunities.
+- **Multi-Warehouse Monitoring:** Complete visibility across all distribution centres to track stock movement and optimize inventory positioning.
+- **Executive Management Dashboards:** Visual insights, trend charts, and KPI summaries tailored for quick decision-making by management (supports Standard, Professional, and Enterprise packages).
 
 ---
 

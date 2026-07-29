@@ -1,0 +1,6 @@
+@echo off
+echo Starting Backend...
+start powershell -NoExit -Command "cd backend; python main.py"
+
+echo Starting Frontend...
+start powershell -NoExit -Command "cd frontend; npm run dev"

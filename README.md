@@ -22,7 +22,15 @@ This project presents the **AI Smart Distribution System**, an intelligent distr
 
 ### 1️⃣ Website Overview
 *A high-level view of the main platform interface and navigation.*
-<img src="WEBSITE_OVERVIEW.png" width="850">
+
+<div align="center">
+  <img src="WEBSITE_OVERVIEW/1.png" width="850"><br>
+  <img src="WEBSITE_OVERVIEW/2.png" width="850"><br>
+  <img src="WEBSITE_OVERVIEW/3.png" width="850"><br>
+  <img src="WEBSITE_OVERVIEW/4.png" width="850"><br>
+  <img src="WEBSITE_OVERVIEW/5.png" width="850"><br>
+  <img src="WEBSITE_OVERVIEW/6.png" width="850">
+</div>
 <br><br>
 
 ### 2️⃣ Demo Dashboard
